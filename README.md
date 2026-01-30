@@ -91,7 +91,7 @@
 
 ---
 
-# 🐍 **Contribution Snake (Auto‑Generated)**
+# 🐍 **Contribution Snake**
 <p align="center">
   https://raw.githubusercontent.com/maheshp2002/maheshp2002/output/github-contribution-grid-snake.svg
 </p>
