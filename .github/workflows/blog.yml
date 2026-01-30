@@ -1,0 +1,33 @@
+name: Update blog posts
+
+on:
+  # Show up immediately in Actions (manual run)
+  workflow_dispatch:
+  # Also trigger on pushes that touch workflow files, so you can see it light up
+  push:
+    paths:
+      - '.github/workflows/**'
+  # Scheduled runs (UTC); optional but useful once it’s visible
+  schedule:
+    - cron: '0 */12 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blog-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest posts into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Replace with your real feed; dev.to example below
+          feed_list: "https://dev.to/feed/maheshp2002"
+          max_post_count: 5
+          commit_message: "chore(readme): update blog posts [skip ci]"
