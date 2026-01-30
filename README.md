@@ -6,25 +6,22 @@
 <p align="center">
   https://komarev.com/ghpvc/?username=maheshp2002&color=blue&style=for-the-badge
   https://img.shields.io/github/followers/maheshp2002?style=for-the-badge
-  mailto:pmahesh072002@gmail.com
-    https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail
-  </a>
-  <a href="httpsnkedin.com/in/mahesh-p-593570228/
-    https://img.shields.io/badge/LinkedIn-Mahesh%20P-blue?style=for-the-badge&logo=linkedin
-  </a>
+  mailto:pmahesh072002@gmail.comhttps://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail</a>
+  https://www.linkedin.com/in/mahesh-p-593570228/https://img.shields.io/badge/LinkedIn-Mahesh%20P-blue?style=for-the-badge&logo=linkedin</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
-- Full‑Stack Engineer with expertise in **Flutter, .NET, Angular, React, Unity AR, SQL, PostgreSQL**
-- Strong background in **microservices, CQRS, clean architecture, enterprise systems**
-- Loves building **fast, scalable systems** and beautiful UIs
-- Passionate about **AR, architecture patterns, and backend engineering**
+# 👨‍💻 **About Me**
+- Full‑Stack Engineer with experience in **Flutter, .NET, Angular, React, Unity AR, and Python**  
+- Expertise in **PostgreSQL, SQL Server, clean architecture, CQRS, microservices**  
+- Works on enterprise‑grade systems & real‑world AR navigation  
+- Loves building scalable backend systems & pixel‑perfect UI  
+- Always exploring **architecture, performance tuning & cross‑platform dev**
 
 ---
 
-# 🧰 Tech Arsenal
+# 🧰 **Tech Arsenal**
 
 ### 🚀 Languages  
 !TS
@@ -37,58 +34,85 @@
 !Flutter
 !Angular
 !React
-![Unity](https://img.shields.io/bture  
-![.NET](https://img.shields.io/badge/.NET-512e
+!Unity
+
+### 🏗 Backend & Architecture  
+!.NET
+!Microservices
+!CQRS
+!Clean Architecture
 
 ### 🗄 Databases  
 !PostgreSQL
-![SQL Server](httpsTools  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=
+!SQL Server
+
+### ⚙ Tools  
+!Git
+!OpenAPI
+!Jest
+!SonarQube
+
+---
+
+# 📊 **Auto‑Updating Dev Stats**
+
 <p align="center">
+  <!-- Stats -->
+  <picture>
+    https://github-readme-stats.vercel.app/api?username=maheshp2002&show_icons=true&theme=tokyonight&hide_border=true
+    https://github-readme-stats.vercel.app/api?username=maheshp2002&show_icons=true&hide_border=true
+  </picture>
 
-  https://github-readme-stats.vercel.app/api?username=maheshp2002&show_icons=true&theme=tokyonight&hide_border=true
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshp2002&layoutht&hide_border=true
-
+  <!-- Languages -->
+  <picture>
+    https://github-readme-stats.vercel.app/api/top-langs/?username=maheshp2002&layout=compact&theme=tokyonight&hide_border=true
+    https://github-readme-stats.vercel.app/api/top-langs/?username=maheshp2002&layout=compact&hide_border=true
+  </picture>
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=night&hide_border=true
+  <!-- Streak -->
+  https://streak-stats.demolab.com?user=maheshp2002&theme=tokyonight&hide_border=true
 </p>
 
 ---
 
-# 🏆 Trophies & Achievements
+# 🏆 **Trophies & Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maheshp2002&theme=matrix&no-frame=true&row=1&column=7
-
-# 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshp2002&theme=&area=true&hide_border=true
+  https://github-profile-trophy.vercel.app/?username=maheshp2002&theme=matrix&no-frame=true&row=1&column=7
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 **Activity Graph**
+<p align="center">
+  https://github-readme-activity-graph.vercel.app/graph?username=maheshp2002&theme=react-dark&area=true&hide_border=true
+</p>
+
+---
+
+# 🐍 **Contribution Snake**
 <p align="center">
   https://raw.githubusercontent.com/maheshp2002/maheshp2002/output/github-contribution-grid-snake.svg
 </p>
 
 ---
 
-# 🔥 Featured Projects
+# 🔥 **Featured Projects**
 
 <p align="center">
   https://github.com/maheshp2002/DirectAR
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=DirectAR&theme=tokyonighter=true
+    https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=DirectAR&theme=tokyonight&hide_border=true
   </a>
 
   https://github.com/maheshp2002/ev-charging-admin-panel
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=ev-charging-admin-panel&theme=tokyonight&hide_border=true">
+    https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=ev-charging-admin-panel&theme=tokyonight&hide_border=true
+  </a>
+</p>
 
 ---
 
-## 📝 Latest Blog Posts (Auto‑Updated)
+## 📝 **Latest Blog Posts (Auto‑Updated)**  
 <details>
 <summary><b>Click to expand</b></summary>
 
@@ -99,18 +123,25 @@
 
 ---
 
-## ⏳ Weekly Coding Stats – WakaTime
+## ⏳ **Weekly Coding Stats – WakaTime**  
 <details>
 <summary><b>Click to expand</b></summary>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 22 January 2026 - To: 29 January 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 </details>
 
 ---
 
-# 🤝 Let’s Build Something Awesome
+# 🤝 **Let’s Build Something Awesome**
 📧 **pmahesh072002@gmail.com**  
 🔗 **LinkedIn:** *Mahesh P*  
 ⭐ If you like my profile, consider starring my projects!
