@@ -44,10 +44,22 @@
 
 ### 🗄 Databases  
 !PostgreSQL
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=p align="center">
+!SQL Server
+
+### ⚙ Tools  
+!Git
+!OpenAPI
+!Jest
+!SonarQube
+
+---
+
+# 📊 **Auto‑Updating Dev Stats**
+
+<p align="center">
   <!-- Stats -->
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=maheshptrue&theme=tokyonight&hide_border=true
+    https://github-readme-stats.vercel.app/api?username=maheshp2002&show_icons=true&theme=tokyonight&hide_border=true
     https://github-readme-stats.vercel.app/api?username=maheshp2002&show_icons=true&hide_border=true
   </picture>
 
@@ -60,21 +72,24 @@
 
 <p align="center">
   <!-- Streak -->
-  <img heighteak-stats.demolab.com?user=maheshp2002&theme=tokyonight&hide_border=true
+  https://streak-stats.demolab.com?user=maheshp2002&theme=tokyonight&hide_border=true
 </p>
 
 ---
 
 # 🏆 **Trophies & Achievements**
 <p align="center">
-  <img src="https://githubrophy.vercel.app/?username=maheshp2002&theme=matrix&no-frame=true&row=1&column=7
+  https://github-profile-trophy.vercel.app/?username=maheshp2002&theme=matrix&no-frame=true&row=1&column=7
 </p>
 
 ---
 
 # 📈 **Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshp2002&theme=react-dark&area=true&hide_border=true
+  https://github-readme-activity-graph.vercel.app/graph?username=maheshp2002&theme=react-dark&area=true&hide_border=true
+</p>
+
+---
 
 # 🐍 **Contribution Snake (Auto‑Generated)**
 <p align="center">
@@ -86,7 +101,7 @@
 # 🔥 **Featured Projects**
 
 <p align="center">
-  <a href="https://githubshp2002/DirectAR
+  https://github.com/maheshp2002/DirectAR
     https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=DirectAR&theme=tokyonight&hide_border=true
   </a>
 
