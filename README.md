@@ -31,7 +31,7 @@
 # 🧰 **Tech Arsenal**
 
 ### 🚀 Languages  
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="28"/>
@@ -39,7 +39,7 @@
 </p>
 
 ### 🎨 Frontend / Mobile  
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="28"/>
@@ -47,7 +47,7 @@
 </p>
 
 ### 🏗 Backend & Architecture  
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat-square" height="28"/>
   <img src="https://img.shields.io/badge/CQRS-00897B?style=flat-square" height="28"/>
@@ -55,13 +55,13 @@
 </p>
 
 ### 🗄 Databases  
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" height="28"/>
 </p>
 
 ### ⚙ Tools  
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=swagger&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" height="28"/>
