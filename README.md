@@ -103,11 +103,21 @@
 
 <p align="center">
   <a href="https://github.com/maheshp2002/DirectAR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=DirectAR&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=Indoor-Navigation-System-Using-AR-Technology&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/maheshp2002/ev-charging-admin-panel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=ev-charging-admin-panel&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=talent-portal&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+  <a href="https://github.com/maheshp2002/ev-charging-admin-panel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=mac-track&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+  <a href="https://github.com/maheshp2002/ev-charging-admin-panel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=pet-zone&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
