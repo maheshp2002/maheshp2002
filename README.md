@@ -78,10 +78,10 @@
 
 ---
 
-# 🏆 **GitHub Stats Combo**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshp2002&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshp2002&layout=compact&theme=tokyonight&hide_border=true" />
+# 🏆 **Trophies & Achievements**
+<p>
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Achievement-Arctic%20Code%20Vault-0A66C2?style=for-the-badge" />
 </p>
 
 ---
