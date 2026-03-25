@@ -90,7 +90,6 @@
 # 🏆 **Trophies & Achievements**
 <p>
   <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Achievement-Arctic%20Code%20Vault-0A66C2?style=for-the-badge" />
 </p>
 
 ---
