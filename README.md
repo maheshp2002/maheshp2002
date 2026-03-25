@@ -1,13 +1,20 @@
 <!-- HEADER -->
 <p align="center">
-  https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&color=00C0FF&center=true&vCenter=true&width=800&lines=Hi%2C+I
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&color=00C0FF&center=true&vCenter=true&width=800&lines=Hi%2C+I+am+Mahesh" />
 </p>
 
 <p align="center">
-  https://komarev.com/ghpvc/?username=maheshp2002&color=blue&style=for-the-badge
-  https://img.shields.io/github/followers/maheshp2002?style=for-the-badge
-  mailto:pmahesh072002@gmail.comhttps://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail</a>
-  https://www.linkedin.com/in/mahesh-p-593570228/https://img.shields.io/badge/LinkedIn-Mahesh%20P-blue?style=for-the-badge&logo=linkedin</a>
+  <img src="https://komarev.com/ghpvc/?username=maheshp2002&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/followers/maheshp2002?style=for-the-badge" />
+
+  <a href="mailto:pmahesh072002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mahesh-p-593570228/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahesh%20P-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
@@ -58,42 +65,36 @@
 
 <p align="center">
   <!-- Stats -->
-  <picture>
-    https://github-readme-stats.vercel.app/api?username=maheshp2002&show_icons=true&theme=tokyonight&hide_border=true
-    https://github-readme-stats.vercel.app/api?username=maheshp2002&show_icons=true&hide_border=true
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshp2002&show_icons=true&theme=tokyonight&hide_border=true" />
 
   <!-- Languages -->
-  <picture>
-    https://github-readme-stats.vercel.app/api/top-langs/?username=maheshp2002&layout=compact&theme=tokyonight&hide_border=true
-    https://github-readme-stats.vercel.app/api/top-langs/?username=maheshp2002&layout=compact&hide_border=true
-  </picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshp2002&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <!-- Streak -->
-  https://streak-stats.demolab.com?user=maheshp2002&theme=tokyonight&hide_border=true
+  <img src="https://streak-stats.demolab.com?user=maheshp2002&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 # 🏆 **Trophies & Achievements**
 <p align="center">
-  https://github-profile-trophy.vercel.app/?username=maheshp2002&theme=matrix&no-frame=true&row=1&column=7
+  <img src="https://github-profile-trophy.vercel.app/?username=maheshp2002&theme=matrix&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 # 📈 **Activity Graph**
 <p align="center">
-  https://github-readme-activity-graph.vercel.app/graph?username=maheshp2002&theme=react-dark&area=true&hide_border=true
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshp2002&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
 
 # 🐍 **Contribution Snake**
 <p align="center">
-  https://raw.githubusercontent.com/maheshp2002/maheshp2002/output/github-contribution-grid-snake.svg
+  <img src="https://raw.githubusercontent.com/maheshp2002/maheshp2002/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -101,12 +102,12 @@
 # 🔥 **Featured Projects**
 
 <p align="center">
-  https://github.com/maheshp2002/DirectAR
-    https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=DirectAR&theme=tokyonight&hide_border=true
+  <a href="https://github.com/maheshp2002/DirectAR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=DirectAR&theme=tokyonight&hide_border=true" />
   </a>
 
-  https://github.com/maheshp2002/ev-charging-admin-panel
-    https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=ev-charging-admin-panel&theme=tokyonight&hide_border=true
+  <a href="https://github.com/maheshp2002/ev-charging-admin-panel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshp2002&repo=ev-charging-admin-panel&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
