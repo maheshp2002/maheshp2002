@@ -30,34 +30,17 @@
 
 # 🧰 **Tech Arsenal**
 
-### 🚀 Languages  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+| 🚀 Languages | 🎨 Frontend / Mobile |
+|-------------|---------------------|
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/> |
 
-### 🎨 Frontend / Mobile  
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> 
-<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
+| 🏗 Backend & Architecture | 🗄 Databases |
+|--------------------------|------------|
+| <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat"/> <img src="https://img.shields.io/badge/CQRS-00897B?style=flat"/> <img src="https://img.shields.io/badge/Clean%20Architecture-6A1B9A?style=flat"/> | <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/> |
 
-### 🏗 Backend & Architecture  
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat"/> 
-<img src="https://img.shields.io/badge/CQRS-00897B?style=flat"/> 
-<img src="https://img.shields.io/badge/Clean%20Architecture-6A1B9A?style=flat"/>
-
-### 🗄 Databases  
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-
-### ⚙ Tools  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=swagger&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white"/>
+| ⚙ Tools | |
+|--------|--|
+| <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=swagger&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/> <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white"/> | |
 
 ---
 
