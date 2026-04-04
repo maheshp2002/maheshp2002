@@ -74,11 +74,11 @@
 
 <p align="center">
   <!-- Stats -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=maheshp2002&show_icons=true&theme=tokyonight&hide_border=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshp2002&show_icons=true&theme=tokyonight&hide_border=true" />
 
   <!-- Languages -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshp2002&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
+< <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshp2002&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <!-- Streak -->
